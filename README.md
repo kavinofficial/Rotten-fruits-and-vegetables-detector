@@ -1,4 +1,4 @@
-Rotten Fruits and Vegetables Detector
+Rotten Fruits and Vegetables Detector : 
 A deep learning-based application designed to detect rotten fruits and vegetables using Convolutional Neural Networks (CNNs). This project aims to assist in maintaining food quality and safety by accurately identifying spoiled produce from images.
 
 Features:
